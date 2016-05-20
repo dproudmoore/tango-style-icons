@@ -12,18 +12,18 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="90.000000"
    inkscape:export-xdpi="90.000000"
-   inkscape:export-filename="/home/lapo/firewall.png"
+   inkscape:export-filename="half-life-opposing-force.png"
    width="400"
    height="300"
    id="svg11300"
    sodipodi:version="0.32"
    inkscape:version="0.48.4 r"
-   sodipodi:docname="half-life.svg"
+   sodipodi:docname="half-life-opposing-force.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
    style="display:inline;enable-background:new">
   <title
-     id="title3003">Half-Life</title>
+     id="title3003">Half-Life: Opposing Force</title>
   <sodipodi:namedview
      stroke="#ef2929"
      fill="#f57900"
@@ -34,9 +34,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="209.5"
-     inkscape:cy="161.5"
-     inkscape:current-layer="layer4"
+     inkscape:cx="235"
+     inkscape:cy="281.5"
+     inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -92,7 +92,7 @@
       <stop
          id="stop6465"
          offset="0"
-         style="stop-color:#fcaf3e;stop-opacity:0;" />
+         style="stop-color:#73d115;stop-opacity:0;" />
       <stop
          style="stop-color:#ffffff;stop-opacity:0.50196081;"
          offset="0.5"
@@ -100,7 +100,7 @@
       <stop
          id="stop6469"
          offset="1"
-         style="stop-color:#fcaf3e;stop-opacity:0;" />
+         style="stop-color:#73d115;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -114,48 +114,48 @@
     <linearGradient
        id="linearGradient6786">
       <stop
-         style="stop-color:#fcaf3e;stop-opacity:1;"
+         style="stop-color:#89e133;stop-opacity:1;"
          offset="0"
          id="stop6788" />
       <stop
-         style="stop-color:#f57900;stop-opacity:1;"
+         style="stop-color:#73d115;stop-opacity:1;"
          offset="1"
          id="stop6790" />
     </linearGradient>
     <linearGradient
        id="linearGradient5666">
       <stop
-         style="stop-color:#f57900;stop-opacity:1;"
+         style="stop-color:#73d115;stop-opacity:1;"
          offset="0"
          id="stop5668" />
       <stop
-         style="stop-color:#fcaf3e;stop-opacity:1;"
+         style="stop-color:#89e133;stop-opacity:1;"
          offset="1"
          id="stop5670" />
     </linearGradient>
     <linearGradient
        id="linearGradient5503">
       <stop
-         style="stop-color:#f87b00;stop-opacity:1;"
+         style="stop-color:#89e133;stop-opacity:1;"
          offset="0"
          id="stop5505" />
       <stop
          id="stop5656"
          offset="0.5"
-         style="stop-color:#e16a00;stop-opacity:1;" />
+         style="stop-color:#73d115;stop-opacity:1;" />
       <stop
-         style="stop-color:#ce5c00;stop-opacity:1;"
+         style="stop-color:#4e9905;stop-opacity:1;"
          offset="1"
          id="stop5507" />
     </linearGradient>
     <linearGradient
        id="linearGradient5453">
       <stop
-         style="stop-color:#eeeeec;stop-opacity:1;"
+         style="stop-color:#eceeec;stop-opacity:1;"
          offset="0"
          id="stop5455" />
       <stop
-         style="stop-color:#ffffdb;stop-opacity:0;"
+         style="stop-color:#e8ffdb;stop-opacity:0;"
          offset="1"
          id="stop5457" />
     </linearGradient>
@@ -171,11 +171,11 @@
     <linearGradient
        id="linearGradient4735">
       <stop
-         style="stop-color:#ce5c00;stop-opacity:1;"
+         style="stop-color:#73d115;stop-opacity:1;"
          offset="0"
          id="stop4737" />
       <stop
-         style="stop-color:#853c00;stop-opacity:1;"
+         style="stop-color:#366a04;stop-opacity:1;"
          offset="1"
          id="stop4739" />
     </linearGradient>
@@ -778,9 +778,13 @@
         <dc:source />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
-        <dc:title>Half-Life</dc:title>
+        <dc:title>Half-Life: Opposing Force</dc:title>
         <dc:subject>
-          <rdf:Bag />
+          <rdf:Bag>
+            <rdf:li>games</rdf:li>
+            <rdf:li>half-life</rdf:li>
+            <rdf:li>opposing force</rdf:li>
+          </rdf:Bag>
         </dc:subject>
         <dc:date />
         <dc:rights>
@@ -904,14 +908,14 @@
          inkscape:label="icon-name"
          sodipodi:linespacing="125%"
          style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
-         x="210.81348"
+         x="109.48633"
          xml:space="preserve"
          y="18.860306"><tspan
            id="tspan3023"
            sodipodi:role="line"
-           x="210.81348"
+           x="109.48633"
            y="18.860306"
-           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">half-life</tspan></text>
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">half-life-opposing-force</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1001,7 +1005,7 @@
            inkscape:connector-curvature="0"
            id="path3002-4"
            d="m 314.52263,63.1044 0,1.2337 2.89155,0 1.53181,4.0744 -9.25225,15.087 3.36377,0 7.05545,-11.6338 4.93612,12.5172 5.21555,-1.3716 -0.48423,-2.1527 -3.31566,0.7615 -7.2,-18.4771 z"
-           style="fill:none;stroke:#fcaf3e;stroke-width:0.97847241" />
+           style="fill:none;stroke:#8ae234;stroke-width:0.97847240999999996" />
         <path
            sodipodi:nodetypes="cccccccc"
            id="path5407-6"
@@ -1078,12 +1082,12 @@
            inkscape:connector-curvature="0"
            id="path3002-4-8"
            d="m 315.71954,135.5324 0,0.8182 1.90581,0 1.0096,2.7019 -6.09811,10.0051 2.21705,0 4.65021,-7.715 3.25337,8.3009 3.43755,-0.9096 -0.31915,-1.4276 -2.18534,0.505 -4.74549,-12.2533 z"
-           style="fill:none;stroke:#fcaf3e;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none" />
+           style="fill:none;stroke:#8ae234;stroke-width:0.75000000000000000;stroke-miterlimit:4;stroke-dasharray:none" />
         <path
            sodipodi:nodetypes="cccccccc"
            id="path5407-2"
            d="m 321.70148,142.088 -2.66433,-6.8977 -3.64578,0.012 -0.0238,1.4622 2.0137,-0.012 0.88004,2.3614 -1.77109,2.8963 c 1.98441,0.2078 3.56764,0.2638 5.21131,0.1778 z"
-           style="fill:url(#linearGradient6831);fill-opacity:1;stroke:none"
+           style="fill:url(#linearGradient6831);fill-opacity:1.0;stroke:none"
            inkscape:connector-curvature="0" />
       </g>
       <g
@@ -1134,7 +1138,7 @@
            sodipodi:nodetypes="cccccccc"
            id="path5407-23"
            d="m 313.82549,184.5432 -2.16689,0.01 0.0304,0.5021 1.28405,0.036 0.78938,2.0326 -0.99242,1.5326 c 1.26537,0.1428 1.62179,0.065 2.66988,0.01 z"
-           style="fill:url(#linearGradient6851);fill-opacity:1;stroke:none"
+           style="fill:url(#linearGradient6851);fill-opacity:1.0;stroke:none"
            inkscape:connector-curvature="0" />
       </g>
       <g
@@ -1161,7 +1165,7 @@
            sodipodi:nodetypes="cccccccc"
            id="path5407-9"
            d="m 310.78706,225.0041 -1.79892,-0.021 -0.0148,0.015 1.46074,0.029 0.53929,1.9492 -0.46846,0.7112 c 0.46552,0.078 0.88169,0.082 1.3016,0.059 z"
-           style="fill:url(#linearGradient4432);fill-opacity:1;stroke:none"
+           style="fill:url(#linearGradient4432);fill-opacity:1.0;stroke:none"
            inkscape:connector-curvature="0" />
       </g>
     </g>

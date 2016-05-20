@@ -18,7 +18,7 @@
    id="svg11300"
    sodipodi:version="0.32"
    inkscape:version="0.48.4 r"
-   sodipodi:docname="applications-batman-arkham-asylum.svg"
+   sodipodi:docname="batman-arkham-asylum.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
    style="display:inline;enable-background:new">
@@ -34,8 +34,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="314.65677"
-     inkscape:cy="355.8233"
+     inkscape:cx="153.65677"
+     inkscape:cy="155.8233"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -1099,7 +1099,12 @@
            rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
         <dc:title>Batman: Arkham Asylum</dc:title>
         <dc:subject>
-          <rdf:Bag />
+          <rdf:Bag>
+            <rdf:li>games</rdf:li>
+            <rdf:li>batman</rdf:li>
+            <rdf:li>arkham</rdf:li>
+            <rdf:li>asylum</rdf:li>
+          </rdf:Bag>
         </dc:subject>
         <dc:date />
         <dc:rights>

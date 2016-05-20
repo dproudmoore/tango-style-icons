@@ -12,13 +12,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="90.000000"
    inkscape:export-xdpi="90.000000"
-   inkscape:export-filename="/home/lapo/firewall.png"
+   inkscape:export-filename="half-life-2.png"
    width="400"
    height="300"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.48.1 "
-   sodipodi:docname="applications-half-life-2.svg"
+   inkscape:version="0.48.4 r"
+   sodipodi:docname="half-life-2.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
    style="display:inline;enable-background:new">
@@ -42,7 +42,7 @@
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
+     inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      width="400px"
@@ -938,7 +938,10 @@
            rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
         <dc:title>Half-Life 2</dc:title>
         <dc:subject>
-          <rdf:Bag />
+          <rdf:Bag>
+            <rdf:li>games</rdf:li>
+            <rdf:li>half-life</rdf:li>
+          </rdf:Bag>
         </dc:subject>
         <dc:date />
         <dc:rights>

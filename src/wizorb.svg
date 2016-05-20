@@ -12,12 +12,12 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="300"
    id="svg11300"
-   inkscape:export-filename="/home/jimmac/Desktop/wi-fi.png"
+   inkscape:export-filename="wizorb.png"
    inkscape:export-xdpi="90.000000"
    inkscape:export-ydpi="90.000000"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:version="0.48.4 r"
-   sodipodi:docname="applications-wizorb.svg"
+   sodipodi:docname="wizorb.svg"
    sodipodi:version="0.32"
    style="display:inline;enable-background:new"
    version="1.0"
@@ -43,7 +43,7 @@
             <dc:title>Jakub Steiner</dc:title>
           </cc:Agent>
         </dc:contributor>
-        <dc:source></dc:source>
+        <dc:source />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
         <dc:subject>
@@ -81,7 +81,7 @@
      id="base"
      inkscape:current-layer="layer4"
      inkscape:cx="-31.5"
-     inkscape:cy="233"
+     inkscape:cy="113"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      inkscape:guide-bbox="true"
